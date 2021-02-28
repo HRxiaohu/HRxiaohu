@@ -4,5 +4,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=HRxiaohu&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=HRxiaohu&count_private=true&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-![]https://gitee.com/leega0/self_designed_bed/blob/master/%E5%9B%BE%E7%81%B5%E4%BA%91logo.svg
+![](https://gitee.com/leega0/self_designed_bed/blob/master/%E5%9B%BE%E7%81%B5%E4%BA%91logo.svg)
 
