@@ -3,6 +3,11 @@
 <h1>HELLO!</h1>
 <p>我是一个15岁的初中生。</p>
 <p>正在学习C#和前端，请多指教😜</p>
+
+![](https://count.getloli.com/get/@HRxiaohu?theme=asoul)
+
+![](https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -10,6 +15,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-![](https://count.getloli.com/get/@HRxiaohu?theme=asoul)
-![](https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg)
 
