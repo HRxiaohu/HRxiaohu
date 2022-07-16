@@ -10,5 +10,5 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<img src="https://count.getloli.com/get/@HRxiaohu?theme=asoul">
-<img src="https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg">
+<img src="https://count.getloli.com/get/@HRxiaohu?theme=asoul" align="left" valign="top">
+<img src="https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg" align="right" valign="top">
