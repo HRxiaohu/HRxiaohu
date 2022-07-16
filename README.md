@@ -4,6 +4,8 @@
 我是一个15岁的初中生。
 主攻C#和前端，请多指教😜
 
+<img src="https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg">
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -12,5 +14,5 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 <img src="https://count.getloli.com/get/@HRxiaohu?theme=asoul">
-<img src="https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg" align="right">
+
 
