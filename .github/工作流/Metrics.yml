@@ -58,11 +58,12 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: icons
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
