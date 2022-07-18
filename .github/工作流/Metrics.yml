@@ -42,6 +42,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -59,7 +61,7 @@ jobs:
           plugin_notable_types: commit
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_wakatime: yes
           plugin_wakatime_days: 7
