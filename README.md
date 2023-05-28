@@ -1,4 +1,4 @@
-<img align="left" src="/github-metrics.svg" alt="Metrics">
+<img align="right" src="/github-metrics.svg" alt="Metrics">
 
 ---
 
