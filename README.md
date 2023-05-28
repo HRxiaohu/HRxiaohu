@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 Hi,there！ 这里是 Xiaohu 的 Github 小窝！
+### 👋 Hi,there !这里是 Xiaohu 的 Github 小窝.
 
 ---
 
