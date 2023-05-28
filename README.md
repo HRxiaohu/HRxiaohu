@@ -47,3 +47,11 @@ You can always contact me via Email, QQ and Steam.
 [![📫 Email](https://img.shields.io/badge/📫%20Email-HRxiaohu1%40163.com-%2357728B?style=for-the-badge)](mailto:HRxiaohu1@163.com)
 [![🐧 QQ](https://img.shields.io/badge/QQ-2494292082-0078D6.svg?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2494292082)
 [![🎮 Steam](https://img.shields.io/badge/Steam-HRxiaohu-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/HRxiaohu)
+
+---
+
+### 🎶 Netease Music Status :
+
+![card](https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg)
+
+---
