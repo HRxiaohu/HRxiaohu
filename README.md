@@ -4,12 +4,6 @@
 
 ---
 
-### ⭐ Total Status :
-
-[![HRxiaohu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRxiaohu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🔍 About Me :
 
 > - 摸鱼带师 🐟
