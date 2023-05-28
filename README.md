@@ -8,9 +8,9 @@
  
 > - 摸鱼带师 🐟 
 > - 起床困难户 🛏️ 
-> - 初三畜生 📕
+> - 苦逼初三生 📕
+> - 指弹吉他手 🎸
 > - 傻卵二次元 👀 
-> - C# 程序员 💻
 
 ---
 
@@ -40,8 +40,8 @@
 
 ### 📫 Contact Me :
 
-You can always contact me via email, steam and QQ.
+You can always contact me via Email, QQ and Steam.
 
 [![📫 Email](https://img.shields.io/badge/📫%20Email-HRxiaohu1%40163.com-%2357728B?style=for-the-badge)](mailto:HRxiaohu1@163.com)
-<img src="https://img.shields.io/badge/QQ-0078D6.svg?style=for-the-badge&logo=tencentqq&logoColor=white" />
-[![🎮 Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/HRxiaohu)
+[![🐧 QQ](https://img.shields.io/badge/QQ-2494292082-0078D6.svg?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2494292082)
+[![🎮 Steam](https://img.shields.io/badge/Steam-HRxiaohu-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/HRxiaohu)
