@@ -1,4 +1,4 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics">
+<img align="left" src="/github-metrics.svg" alt="Metrics">
 
 ### 👋 Hi,there! 这里是 Xiaohu 的 Github 小窝!
 
