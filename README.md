@@ -1,15 +1,15 @@
-<img align="left" src="/github-metrics.svg" alt="Metrics">
+<img align="right" src="/github-metrics.svg" alt="Metrics">
 
 ### 👋 Hi,there! 这里是 Xiaohu 的 Github 小窝!
 
 ---
 
 ### 🔍 About Me :
-
-> - 摸鱼带师 🐟
-> - 喜欢赖床 🛏️
+ 
+> - 摸鱼带师 🐟 <img align="right" src="https://weather-icon.journeyad.repl.co/@shuangta?v=1" alt="Weather">
+> - 喜欢赖床 🛏️ 
 > - 初三畜生 📕
-> - 傻卵二次元 !
+> - 傻卵二次元 ! 
 
 ---
 
