@@ -1,16 +1,16 @@
-<img align="left" src="/github-metrics.svg" alt="Metrics">
+<img align="right" src="/github-metrics.svg" alt="Metrics">
 
 ### 👋 Hi,there! 这里是 Xiaohu 的 Github 小窝!
 
 ---
 
 ### 🔍 About Me :
- 
-> - 摸鱼带师 🐟 
-> - 起床困难户 🛏️ 
-> - 苦逼初三生 📕
-> - 指弹吉他手 🎸
-> - 傻卵二次元 👀 
+
+<img align="left" height="128" weight="128" src="https://s2.loli.net/2023/05/28/wHSsGkaWoFgbU4P.png" >
+
+####  摸鱼带师 🐟 起床困难户 🛏️ 
+####  苦逼初三生 📕 指弹吉他手 🎸
+####  傻卵二次元 👀 
 
 ---
 
