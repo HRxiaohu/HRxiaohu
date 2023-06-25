@@ -8,11 +8,8 @@
 
 ### 🔍 About Me :
 
-<img align="left" height="128" weight="128" src="https://avatars.githubusercontent.com/u/63327671?v=4" >
-
-####  摸鱼带师   🐟 起床困难户 🛏️ 
-####  苦逼初三生 📕 指弹吉他手 🎸
-####  傻卵二次元 👀 
+####  摸鱼带师 🐟 起床困难户 🛏️ 音乐杂货铺 🎧
+####  喜欢折腾 🔧 指弹吉他手 🎸 傻卵二次元 👀 
 
 ---
 
