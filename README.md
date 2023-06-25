@@ -17,17 +17,20 @@
 
 <p>
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-13-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/Xiaomi-13-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asus-天选%204-12DDCA?style=for-the-badge&logo=asus&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c%20sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c%20sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white" />
 </p>
 
 <p>
