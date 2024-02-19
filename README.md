@@ -45,13 +45,13 @@
 You can always contact me via Email, QQ and Steam.
 
 [![📫 Email](https://img.shields.io/badge/📫%20Email-HRxiaohu1%40163.com-%2357728B?style=for-the-badge)](mailto:HRxiaohu1@163.com)
-[![🐧 QQ](https://img.shields.io/badge/QQ-2494292082-0078D6.svg?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2494292082)
+[![🐧 QQ](https://img.shields.io/badge/QQ-2494292082-0078D6.svg?style=for-the-badge&logo=tencentqq&logoColor=white)](https://wpa.qq.com/msgrd?v=3&uin=2494292082&site=qq&menu=yes&jumpflag=1)
 [![🎮 Steam](https://img.shields.io/badge/Steam-HRxiaohu-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/HRxiaohu)
 
 ---
 
 ### 🎶 Netease Music Status :
 
-![card](https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg)
+[![card](https://cdn.jsdelivr.net/gh/HRxiaohu/netease-cloud-music-card/card.svg)](https://music.163.com/#/user/home?id=571399394)
 
 ---
