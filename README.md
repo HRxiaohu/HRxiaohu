@@ -1,4 +1,4 @@
-<img align="right" src="https://ghproxy.com/https://raw.githubusercontent.com/HRxiaohu/HRxiaohu/main/github-metrics.svg" alt="Metrics">
+<img align="right" src="https://ghfast.top/https://raw.githubusercontent.com/HRxiaohu/HRxiaohu/main/github-metrics.svg" alt="Metrics">
 
 ---
 
