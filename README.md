@@ -17,11 +17,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-13-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-15-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Xiaomi-13-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xiaomi-14-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
   <img src="https://img.shields.io/badge/Asus-天选%204-12DDCA?style=for-the-badge&logo=asus&logoColor=white" />
 </p>
 
