@@ -52,6 +52,6 @@ You can always contact me via Email, QQ and Steam.
 
 ### 🎶 Netease Music Status :
 
-[![card](https://statically.io/gh/HRxiaohu/netease-cloud-music-card/card.svg)](https://music.163.com/#/user/home?id=571399394)
+[![card](https://ghfast.top/https://raw.githubusercontent.com/HRxiaohu/netease-cloud-music-card/refs/heads/main/card.svg)](https://music.163.com/#/user/home?id=571399394)
 
 ---
